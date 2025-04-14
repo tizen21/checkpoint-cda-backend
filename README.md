@@ -105,12 +105,3 @@ src/
 ├── data-source.ts     → Configuration TypeORM
 └── index.ts           → Point d'entrée du serveur
 ```
-
----
-
-## ✅ Objectifs du checkpoint
-
-- [x] Créer un projet NodeJS TypeScript avec ts-node-dev
-- [x] Utiliser Apollo Server et TypeGraphQL
-- [x] Utiliser SQLite avec TypeORM
-- [x] Implémenter des mutations et queries GraphQL pour gérer des pays
